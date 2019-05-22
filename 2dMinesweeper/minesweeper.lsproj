@@ -3,7 +3,7 @@
     "document_id": "XPg9LKtoDNo4pKyYegzb",
     "original_document_id": "PNsrDhut7b8bQ1B4kqnk",
     "version": "14",
-    "lastChanged": "1558134307774",
+    "lastChanged": "1558554156505",
     "preview": "",
     "videoPreview": "",
     "videoPreviewUpdateTime": "",
@@ -97,7 +97,63 @@
                         "cell_wrongflag"
                     ],
                     [
-                        "cell"
+                        "Textures",
+                        "number_0"
+                    ],
+                    [
+                        "Textures",
+                        "number_1"
+                    ],
+                    [
+                        "Textures",
+                        "number_2"
+                    ],
+                    [
+                        "Textures",
+                        "number_3"
+                    ],
+                    [
+                        "Textures",
+                        "number_4"
+                    ],
+                    [
+                        "Textures",
+                        "number_5"
+                    ],
+                    [
+                        "Textures",
+                        "number_6"
+                    ],
+                    [
+                        "Textures",
+                        "number_7"
+                    ],
+                    [
+                        "Textures",
+                        "number_8"
+                    ],
+                    [
+                        "Textures",
+                        "number_9"
+                    ],
+                    [
+                        "Textures",
+                        "smile_dead"
+                    ],
+                    [
+                        "Textures",
+                        "smile_glasses"
+                    ],
+                    [
+                        "Textures",
+                        "smile_oface"
+                    ],
+                    [
+                        "Textures",
+                        "smile_play"
+                    ],
+                    [
+                        "button"
                     ],
                     [
                         "echopark_diff"
@@ -106,7 +162,10 @@
                         "echopark_spec"
                     ],
                     [
-                        "game"
+                        "image"
+                    ],
+                    [
+                        "images"
                     ],
                     [
                         "images",
@@ -166,11 +225,70 @@
                     ],
                     [
                         "images",
+                        "number_0"
+                    ],
+                    [
+                        "images",
+                        "number_1"
+                    ],
+                    [
+                        "images",
+                        "number_2"
+                    ],
+                    [
+                        "images",
+                        "number_3"
+                    ],
+                    [
+                        "images",
+                        "number_4"
+                    ],
+                    [
+                        "images",
+                        "number_5"
+                    ],
+                    [
+                        "images",
+                        "number_6"
+                    ],
+                    [
+                        "images",
+                        "number_7"
+                    ],
+                    [
+                        "images",
+                        "number_8"
+                    ],
+                    [
+                        "images",
+                        "number_9"
+                    ],
+                    [
+                        "images",
+                        "smiley_dead"
+                    ],
+                    [
+                        "images",
+                        "smiley_oface"
+                    ],
+                    [
+                        "images",
+                        "smiley_play"
+                    ],
+                    [
+                        "images",
+                        "smiley_win"
+                    ],
+                    [
+                        "images",
                         "tile_2"
                     ],
                     [
+                        "scripts"
+                    ],
+                    [
                         "scripts",
-                        "cellScript"
+                        "buttonScript"
                     ],
                     [
                         "scripts",
@@ -197,10 +315,7 @@
         },
         "InspectorUiComponent": {
             "collapsedList": [
-                [
-                    "1558111090825146:192210",
-                    "1558111090985093:192373"
-                ]
+                ""
             ]
         },
         "LayerUiComponent": {
@@ -395,14 +510,6 @@
                     "flags": "1"
                 },
                 {
-                    "resId": "31",
-                    "uid": "1558128033536127:134414",
-                    "name": "Files\/File43.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
                     "resId": "32",
                     "uid": "1558128638740406:180008",
                     "name": "Files\/File44",
@@ -529,6 +636,238 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1558546372286974:125400",
+                    "name": "Files\/File76.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "49",
+                    "uid": "1558546372370914:125412",
+                    "name": "Files\/File78.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "50",
+                    "uid": "1558546372582032:127868",
+                    "name": "Files\/File80.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "51",
+                    "uid": "1558546372753334:127885",
+                    "name": "Files\/File82.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "52",
+                    "uid": "1558546411965987:130352",
+                    "name": "Files\/File84",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "53",
+                    "uid": "1558546431666265:135348",
+                    "name": "Files\/File86",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "54",
+                    "uid": "1558546455827349:140357",
+                    "name": "Files\/File88",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "55",
+                    "uid": "1558546473831624:145379",
+                    "name": "Files\/File90",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "57",
+                    "uid": "1558547615092014:327319",
+                    "name": "Files\/File93.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "58",
+                    "uid": "1558547615178518:327331",
+                    "name": "Files\/File95.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "59",
+                    "uid": "1558547615416531:327547",
+                    "name": "Files\/File97.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "60",
+                    "uid": "1558547615548502:329891",
+                    "name": "Files\/File99.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "61",
+                    "uid": "1558547615689857:329932",
+                    "name": "Files\/File101.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "62",
+                    "uid": "1558547615767386:332388",
+                    "name": "Files\/File103.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "63",
+                    "uid": "1558547615927717:332481",
+                    "name": "Files\/File105.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "64",
+                    "uid": "1558547616045499:332496",
+                    "name": "Files\/File107.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "65",
+                    "uid": "1558547616151975:332511",
+                    "name": "Files\/File109.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "66",
+                    "uid": "1558547616234875:332629",
+                    "name": "Files\/File111.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "67",
+                    "uid": "1558547627543203:338223",
+                    "name": "Files\/File113",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "68",
+                    "uid": "1558547648981836:343511",
+                    "name": "Files\/File115",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "69",
+                    "uid": "1558547664652759:351401",
+                    "name": "Files\/File117",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "70",
+                    "uid": "1558547676005201:359289",
+                    "name": "Files\/File119",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "71",
+                    "uid": "1558547688762506:364617",
+                    "name": "Files\/File121",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "72",
+                    "uid": "1558547731209286:370024",
+                    "name": "Files\/File123",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "73",
+                    "uid": "1558547733225921:372693",
+                    "name": "Files\/File125",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "74",
+                    "uid": "1558547734848530:375369",
+                    "name": "Files\/File127",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "75",
+                    "uid": "1558547736532375:378052",
+                    "name": "Files\/File129",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "76",
+                    "uid": "1558547738153404:380742",
+                    "name": "Files\/File131",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "77",
+                    "uid": "1558547847321617:403246",
+                    "name": "image",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
                 }
             ]
         },
@@ -549,7 +888,8 @@
                 "1": "1517446348228144:84822",
                 "2": "1528843813151434:5126",
                 "3": "1558109529761429:107563",
-                "4": "1558111090823458:192197"
+                "4": "1558111090823458:192197",
+                "5": "1558547543060792:319043"
             }
         },
         "LayerComponent": {
@@ -723,10 +1063,6 @@
                     "v": "Files\/File42.png"
                 },
                 {
-                    "k": "43",
-                    "v": "Files\/File43.js"
-                },
-                {
                     "k": "44",
                     "v": "Files\/File44"
                 },
@@ -853,6 +1189,238 @@
                 {
                     "k": "75",
                     "v": "Files\/File75.lsmat"
+                },
+                {
+                    "k": "76",
+                    "v": "Files\/File76.png"
+                },
+                {
+                    "k": "77",
+                    "v": "Files\/File77.png"
+                },
+                {
+                    "k": "78",
+                    "v": "Files\/File78.png"
+                },
+                {
+                    "k": "79",
+                    "v": "Files\/File79.png"
+                },
+                {
+                    "k": "80",
+                    "v": "Files\/File80.png"
+                },
+                {
+                    "k": "81",
+                    "v": "Files\/File81.png"
+                },
+                {
+                    "k": "82",
+                    "v": "Files\/File82.png"
+                },
+                {
+                    "k": "83",
+                    "v": "Files\/File83.png"
+                },
+                {
+                    "k": "84",
+                    "v": "Files\/File84"
+                },
+                {
+                    "k": "85",
+                    "v": "Files\/File85.lsmat"
+                },
+                {
+                    "k": "86",
+                    "v": "Files\/File86"
+                },
+                {
+                    "k": "87",
+                    "v": "Files\/File87.lsmat"
+                },
+                {
+                    "k": "88",
+                    "v": "Files\/File88"
+                },
+                {
+                    "k": "89",
+                    "v": "Files\/File89.lsmat"
+                },
+                {
+                    "k": "90",
+                    "v": "Files\/File90"
+                },
+                {
+                    "k": "91",
+                    "v": "Files\/File91.lsmat"
+                },
+                {
+                    "k": "93",
+                    "v": "Files\/File93.png"
+                },
+                {
+                    "k": "94",
+                    "v": "Files\/File94.png"
+                },
+                {
+                    "k": "95",
+                    "v": "Files\/File95.png"
+                },
+                {
+                    "k": "96",
+                    "v": "Files\/File96.png"
+                },
+                {
+                    "k": "97",
+                    "v": "Files\/File97.png"
+                },
+                {
+                    "k": "98",
+                    "v": "Files\/File98.png"
+                },
+                {
+                    "k": "99",
+                    "v": "Files\/File99.png"
+                },
+                {
+                    "k": "100",
+                    "v": "Files\/File100.png"
+                },
+                {
+                    "k": "101",
+                    "v": "Files\/File101.png"
+                },
+                {
+                    "k": "102",
+                    "v": "Files\/File102.png"
+                },
+                {
+                    "k": "103",
+                    "v": "Files\/File103.png"
+                },
+                {
+                    "k": "104",
+                    "v": "Files\/File104.png"
+                },
+                {
+                    "k": "105",
+                    "v": "Files\/File105.png"
+                },
+                {
+                    "k": "106",
+                    "v": "Files\/File106.png"
+                },
+                {
+                    "k": "107",
+                    "v": "Files\/File107.png"
+                },
+                {
+                    "k": "108",
+                    "v": "Files\/File108.png"
+                },
+                {
+                    "k": "109",
+                    "v": "Files\/File109.png"
+                },
+                {
+                    "k": "110",
+                    "v": "Files\/File110.png"
+                },
+                {
+                    "k": "111",
+                    "v": "Files\/File111.png"
+                },
+                {
+                    "k": "112",
+                    "v": "Files\/File112.png"
+                },
+                {
+                    "k": "113",
+                    "v": "Files\/File113"
+                },
+                {
+                    "k": "114",
+                    "v": "Files\/File114.lsmat"
+                },
+                {
+                    "k": "115",
+                    "v": "Files\/File115"
+                },
+                {
+                    "k": "116",
+                    "v": "Files\/File116.lsmat"
+                },
+                {
+                    "k": "117",
+                    "v": "Files\/File117"
+                },
+                {
+                    "k": "118",
+                    "v": "Files\/File118.lsmat"
+                },
+                {
+                    "k": "119",
+                    "v": "Files\/File119"
+                },
+                {
+                    "k": "120",
+                    "v": "Files\/File120.lsmat"
+                },
+                {
+                    "k": "121",
+                    "v": "Files\/File121"
+                },
+                {
+                    "k": "122",
+                    "v": "Files\/File122.lsmat"
+                },
+                {
+                    "k": "123",
+                    "v": "Files\/File123"
+                },
+                {
+                    "k": "124",
+                    "v": "Files\/File124.lsmat"
+                },
+                {
+                    "k": "125",
+                    "v": "Files\/File125"
+                },
+                {
+                    "k": "126",
+                    "v": "Files\/File126.lsmat"
+                },
+                {
+                    "k": "127",
+                    "v": "Files\/File127"
+                },
+                {
+                    "k": "128",
+                    "v": "Files\/File128.lsmat"
+                },
+                {
+                    "k": "129",
+                    "v": "Files\/File129"
+                },
+                {
+                    "k": "130",
+                    "v": "Files\/File130.lsmat"
+                },
+                {
+                    "k": "131",
+                    "v": "Files\/File131"
+                },
+                {
+                    "k": "132",
+                    "v": "Files\/File132.lsmat"
+                },
+                {
+                    "k": "133",
+                    "v": "Files\/File133.oprfb"
+                },
+                {
+                    "k": "134",
+                    "v": "Files\/File134.oprfb"
                 }
             ]
         },
@@ -875,7 +1443,7 @@
                     },
                     {
                         "k": "48",
-                        "v": "scripts\/cellScript.js"
+                        "v": "scripts\/buttonScript.js"
                     },
                     {
                         "k": "49",
@@ -887,7 +1455,7 @@
                     },
                     {
                         "k": "180",
-                        "v": "cell.oprfb"
+                        "v": "button.oprfb"
                     },
                     {
                         "k": "181",
@@ -962,10 +1530,6 @@
                         "v": "images\/cell_unhidden.png"
                     },
                     {
-                        "k": "200",
-                        "v": "game.js"
-                    },
-                    {
                         "k": "201",
                         "v": "Textures\/cell_num1.lsmat"
                     },
@@ -1028,6 +1592,122 @@
                     {
                         "k": "216",
                         "v": "Textures\/cell_wrongflag.lsmat"
+                    },
+                    {
+                        "k": "217",
+                        "v": "images\/smiley_dead.png"
+                    },
+                    {
+                        "k": "218",
+                        "v": "images\/smiley_oface.png"
+                    },
+                    {
+                        "k": "219",
+                        "v": "images\/smiley_play.png"
+                    },
+                    {
+                        "k": "220",
+                        "v": "images\/smiley_win.png"
+                    },
+                    {
+                        "k": "221",
+                        "v": "Textures\/smile_play.lsmat"
+                    },
+                    {
+                        "k": "222",
+                        "v": "Textures\/smile_dead.lsmat"
+                    },
+                    {
+                        "k": "223",
+                        "v": "Textures\/smile_glasses.lsmat"
+                    },
+                    {
+                        "k": "224",
+                        "v": "Textures\/smile_oface.lsmat"
+                    },
+                    {
+                        "k": "226",
+                        "v": "images\/number_0.png"
+                    },
+                    {
+                        "k": "227",
+                        "v": "images\/number_1.png"
+                    },
+                    {
+                        "k": "228",
+                        "v": "images\/number_2.png"
+                    },
+                    {
+                        "k": "229",
+                        "v": "images\/number_3.png"
+                    },
+                    {
+                        "k": "230",
+                        "v": "images\/number_4.png"
+                    },
+                    {
+                        "k": "231",
+                        "v": "images\/number_5.png"
+                    },
+                    {
+                        "k": "232",
+                        "v": "images\/number_6.png"
+                    },
+                    {
+                        "k": "233",
+                        "v": "images\/number_7.png"
+                    },
+                    {
+                        "k": "234",
+                        "v": "images\/number_8.png"
+                    },
+                    {
+                        "k": "235",
+                        "v": "images\/number_9.png"
+                    },
+                    {
+                        "k": "236",
+                        "v": "Textures\/number_0.lsmat"
+                    },
+                    {
+                        "k": "237",
+                        "v": "Textures\/number_1.lsmat"
+                    },
+                    {
+                        "k": "238",
+                        "v": "Textures\/number_2.lsmat"
+                    },
+                    {
+                        "k": "239",
+                        "v": "Textures\/number_3.lsmat"
+                    },
+                    {
+                        "k": "240",
+                        "v": "Textures\/number_4.lsmat"
+                    },
+                    {
+                        "k": "241",
+                        "v": "Textures\/number_5.lsmat"
+                    },
+                    {
+                        "k": "242",
+                        "v": "Textures\/number_6.lsmat"
+                    },
+                    {
+                        "k": "243",
+                        "v": "Textures\/number_7.lsmat"
+                    },
+                    {
+                        "k": "244",
+                        "v": "Textures\/number_8.lsmat"
+                    },
+                    {
+                        "k": "245",
+                        "v": "Textures\/number_9.lsmat"
+                    },
+                    {
+                        "k": "246",
+                        "v": "image.oprfb"
                     }
                 ],
                 "hashes": [
@@ -1049,7 +1729,7 @@
                     },
                     {
                         "k": "110",
-                        "v": "98b2b660625f7866726d0f3103d177a2"
+                        "v": "21001cdfead73abeaab1998c92ee32b1"
                     },
                     {
                         "k": "179",
@@ -1057,7 +1737,7 @@
                     },
                     {
                         "k": "180",
-                        "v": "65c740ca2cddd31cd29f526d9f2b3480"
+                        "v": "67f336ced56a0baa1fddc81597eb0d17"
                     },
                     {
                         "k": "182",
@@ -1141,7 +1821,7 @@
                     },
                     {
                         "k": "204",
-                        "v": "f57a478a4ae83315c347a6ddaf445f54"
+                        "v": "6fc359cb78403fb7a25d8a8932db94f6"
                     },
                     {
                         "k": "205",
@@ -1190,20 +1870,140 @@
                     {
                         "k": "216",
                         "v": "451d7f52a961cc910401db74a092d914"
+                    },
+                    {
+                        "k": "217",
+                        "v": "c7ef294fa70ec05a0f1bf3eb5a949741"
+                    },
+                    {
+                        "k": "218",
+                        "v": "852ee3ce45eea294c05896012bfa7c35"
+                    },
+                    {
+                        "k": "219",
+                        "v": "31fc60d593dba94b573552052c46766a"
+                    },
+                    {
+                        "k": "220",
+                        "v": "1e212c3635904358515000ee5f860b91"
+                    },
+                    {
+                        "k": "221",
+                        "v": "1fed0fedcf46fb2ec0d05b68008ff06e"
+                    },
+                    {
+                        "k": "222",
+                        "v": "87fcbe7f22be698b7c32d8a8bff61d73"
+                    },
+                    {
+                        "k": "223",
+                        "v": "f1bbf825a7d445fc2403a62b460a9a0a"
+                    },
+                    {
+                        "k": "224",
+                        "v": "20a8f3d7da1440dc24b7671cee6642f4"
+                    },
+                    {
+                        "k": "225",
+                        "v": "59361291686fd7cebf3981836238abbb"
+                    },
+                    {
+                        "k": "226",
+                        "v": "d3df83a4cfcee4f37620338537f7900b"
+                    },
+                    {
+                        "k": "227",
+                        "v": "b696d1e6924156d2e7cf977594a30947"
+                    },
+                    {
+                        "k": "228",
+                        "v": "dc96649a3a5fc8bae380e06f93c9b397"
+                    },
+                    {
+                        "k": "229",
+                        "v": "f072b9ed96f205eb5413cd3c20519e4b"
+                    },
+                    {
+                        "k": "230",
+                        "v": "6cc552a561e0ad0f208922ef4b435669"
+                    },
+                    {
+                        "k": "231",
+                        "v": "f8f39d88c182535b15320caa71952aa8"
+                    },
+                    {
+                        "k": "232",
+                        "v": "8e6cd1201715b19555429b2d666f6546"
+                    },
+                    {
+                        "k": "233",
+                        "v": "5013419290f092f08eda46f45c83d90e"
+                    },
+                    {
+                        "k": "234",
+                        "v": "661eae5b044eeb8c3c7c3374bb654000"
+                    },
+                    {
+                        "k": "235",
+                        "v": "3a70a1cc67b6e7ab6a9ff8d16166264e"
+                    },
+                    {
+                        "k": "236",
+                        "v": "3b202bf6250bb2d814b92e834ce8ef41"
+                    },
+                    {
+                        "k": "237",
+                        "v": "b872a37e4e95a8b220d4c1b45703baa7"
+                    },
+                    {
+                        "k": "238",
+                        "v": "82051d2cc2e2382c24d1df515d0230da"
+                    },
+                    {
+                        "k": "239",
+                        "v": "1581284e5da6ffc57e23e856dd7e2200"
+                    },
+                    {
+                        "k": "240",
+                        "v": "0506966caca8d9ab071690fdc673adbe"
+                    },
+                    {
+                        "k": "241",
+                        "v": "23bc25fe4cbc72d68d58b929e31bcc99"
+                    },
+                    {
+                        "k": "242",
+                        "v": "3ddd2cdfbfcec8f2084520b156b17cc2"
+                    },
+                    {
+                        "k": "243",
+                        "v": "f3a25c100235a1d478b5431142964dc0"
+                    },
+                    {
+                        "k": "244",
+                        "v": "611a5ccc39ab8fe5e0cff62246b462b6"
+                    },
+                    {
+                        "k": "245",
+                        "v": "885e97dabba63cf3808766dfc52ea7ad"
+                    },
+                    {
+                        "k": "246",
+                        "v": "763e2755c04cf1ffebbf4f137349b8f8"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2019-05-17T22:53:21",
+                        "lastModified": "2019-05-22T18:57:27",
                         "name": "Public",
-                        "hash": "0cc5d2720fd920204d5bd5b3d7a66d32",
+                        "hash": "e213d3571ad27b917ee12bdaab99cd80",
                         "children": [
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-05-17T21:07:27",
-                                "name": "cell.oprfb",
-                                "hash": "65c740ca2cddd31cd29f526d9f2b3480",
+                                "lastModified": "2019-05-22T18:38:31",
+                                "name": "button.oprfb",
+                                "hash": "67f336ced56a0baa1fddc81597eb0d17",
                                 "children": ""
                             },
                             {
@@ -1229,16 +2029,16 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-05-17T22:22:40",
-                                "name": "game.js",
-                                "hash": "da31c6c5f45d3238a832333770b4c0bf",
+                                "lastModified": "2019-05-22T18:57:27",
+                                "name": "image.oprfb",
+                                "hash": "763e2755c04cf1ffebbf4f137349b8f8",
                                 "children": ""
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-05-17T23:57:49",
+                                "lastModified": "2019-05-22T18:53:36",
                                 "name": "images",
-                                "hash": "edba5c7f0d1cc400750c618e1eb7813f",
+                                "hash": "ee9b2e5e02b98e3f1e8a0d34ad854edf",
                                 "children": [
                                     {
                                         "isFolder": "false",
@@ -1347,6 +2147,104 @@
                                     },
                                     {
                                         "isFolder": "false",
+                                        "lastModified": "2017-10-06T11:48:38",
+                                        "name": "number_0.png",
+                                        "hash": "d3df83a4cfcee4f37620338537f7900b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2017-10-06T11:49:06",
+                                        "name": "number_1.png",
+                                        "hash": "b696d1e6924156d2e7cf977594a30947",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2017-10-06T11:49:33",
+                                        "name": "number_2.png",
+                                        "hash": "dc96649a3a5fc8bae380e06f93c9b397",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2017-10-06T11:49:52",
+                                        "name": "number_3.png",
+                                        "hash": "f072b9ed96f205eb5413cd3c20519e4b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2017-10-06T11:50:17",
+                                        "name": "number_4.png",
+                                        "hash": "6cc552a561e0ad0f208922ef4b435669",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2017-10-06T11:50:38",
+                                        "name": "number_5.png",
+                                        "hash": "f8f39d88c182535b15320caa71952aa8",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2017-10-10T11:06:42",
+                                        "name": "number_6.png",
+                                        "hash": "8e6cd1201715b19555429b2d666f6546",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2017-10-06T11:51:16",
+                                        "name": "number_7.png",
+                                        "hash": "5013419290f092f08eda46f45c83d90e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2017-10-06T11:51:35",
+                                        "name": "number_8.png",
+                                        "hash": "661eae5b044eeb8c3c7c3374bb654000",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2017-10-06T11:52:06",
+                                        "name": "number_9.png",
+                                        "hash": "3a70a1cc67b6e7ab6a9ff8d16166264e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2017-10-06T10:48:22",
+                                        "name": "smiley_dead.png",
+                                        "hash": "c7ef294fa70ec05a0f1bf3eb5a949741",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2017-10-06T10:48:02",
+                                        "name": "smiley_oface.png",
+                                        "hash": "852ee3ce45eea294c05896012bfa7c35",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2017-10-06T11:03:34",
+                                        "name": "smiley_play.png",
+                                        "hash": "31fc60d593dba94b573552052c46766a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2017-10-06T10:48:37",
+                                        "name": "smiley_win.png",
+                                        "hash": "1e212c3635904358515000ee5f860b91",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
                                         "lastModified": "2019-05-17T21:38:17",
                                         "name": "tile_2.jpg",
                                         "hash": "a3ae3ba010f5b824cc0edc92b84de3be",
@@ -1356,14 +2254,14 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-05-17T22:53:21",
+                                "lastModified": "2019-05-22T18:38:16",
                                 "name": "scripts",
-                                "hash": "ccbe9816b3a39155afc6a5365f5ed1be",
+                                "hash": "18186ea4a032efe6138d14d265558438",
                                 "children": [
                                     {
                                         "isFolder": "false",
                                         "lastModified": "2019-05-17T23:33:25",
-                                        "name": "cellScript.js",
+                                        "name": "buttonScript.js",
                                         "hash": "b6057c8dbe0a7096811597f5934474e4",
                                         "children": ""
                                     },
@@ -1376,18 +2274,18 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-05-18T00:04:51",
+                                        "lastModified": "2019-05-22T20:41:28",
                                         "name": "game.js",
-                                        "hash": "98b2b660625f7866726d0f3103d177a2",
+                                        "hash": "21001cdfead73abeaab1998c92ee32b1",
                                         "children": ""
                                     }
                                 ]
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-05-17T23:58:46",
+                                "lastModified": "2019-05-22T20:37:43",
                                 "name": "Textures",
-                                "hash": "edef045f00d31427fed59b9f019c8ae4",
+                                "hash": "d423e9b4e0e8a7321765b279028f3642",
                                 "children": [
                                     {
                                         "isFolder": "false",
@@ -1454,9 +2352,9 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-05-17T22:32:50",
+                                        "lastModified": "2019-05-22T20:37:43",
                                         "name": "cell_num4.lsmat",
-                                        "hash": "f57a478a4ae83315c347a6ddaf445f54",
+                                        "hash": "6fc359cb78403fb7a25d8a8932db94f6",
                                         "children": ""
                                     },
                                     {
@@ -1513,6 +2411,104 @@
                                         "lastModified": "2019-05-17T22:16:22",
                                         "name": "Normal.png",
                                         "hash": "8a0173d0b987e1abfebd4ef9e3304c0b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-05-22T18:55:16",
+                                        "name": "number_0.lsmat",
+                                        "hash": "3b202bf6250bb2d814b92e834ce8ef41",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-05-22T18:55:21",
+                                        "name": "number_1.lsmat",
+                                        "hash": "b872a37e4e95a8b220d4c1b45703baa7",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-05-22T18:55:26",
+                                        "name": "number_2.lsmat",
+                                        "hash": "82051d2cc2e2382c24d1df515d0230da",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-05-22T18:54:46",
+                                        "name": "number_3.lsmat",
+                                        "hash": "1581284e5da6ffc57e23e856dd7e2200",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-05-22T18:55:03",
+                                        "name": "number_4.lsmat",
+                                        "hash": "0506966caca8d9ab071690fdc673adbe",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-05-22T18:56:24",
+                                        "name": "number_5.lsmat",
+                                        "hash": "23bc25fe4cbc72d68d58b929e31bcc99",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-05-22T18:56:29",
+                                        "name": "number_6.lsmat",
+                                        "hash": "3ddd2cdfbfcec8f2084520b156b17cc2",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-05-22T18:56:33",
+                                        "name": "number_7.lsmat",
+                                        "hash": "f3a25c100235a1d478b5431142964dc0",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-05-22T18:56:37",
+                                        "name": "number_8.lsmat",
+                                        "hash": "611a5ccc39ab8fe5e0cff62246b462b6",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-05-22T18:56:41",
+                                        "name": "number_9.lsmat",
+                                        "hash": "885e97dabba63cf3808766dfc52ea7ad",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-05-22T18:34:12",
+                                        "name": "smile_dead.lsmat",
+                                        "hash": "87fcbe7f22be698b7c32d8a8bff61d73",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-05-22T18:34:30",
+                                        "name": "smile_glasses.lsmat",
+                                        "hash": "f1bbf825a7d445fc2403a62b460a9a0a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-05-22T18:34:44",
+                                        "name": "smile_oface.lsmat",
+                                        "hash": "20a8f3d7da1440dc24b7671cee6642f4",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-05-22T18:33:49",
+                                        "name": "smile_play.lsmat",
+                                        "hash": "1fed0fedcf46fb2ec0d05b68008ff06e",
                                         "children": ""
                                     }
                                 ]
@@ -1588,7 +2584,7 @@
                         "additional": ""
                     },
                     {
-                        "name": "cell",
+                        "name": "button",
                         "type": "12",
                         "subtype": "-1",
                         "resourceId": "14",
@@ -1833,6 +2829,188 @@
                                 "publicId": "216",
                                 "source": "D:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/materials\/PBR.lsmat",
                                 "additional": ""
+                            },
+                            {
+                                "name": "smile_play",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "52",
+                                "dependency": "0",
+                                "uid": "1558546411965987:130352",
+                                "fileId": "84",
+                                "originalId": "85",
+                                "publicId": "221",
+                                "source": "D:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/materials\/PBR.lsmat",
+                                "additional": ""
+                            },
+                            {
+                                "name": "smile_dead",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "53",
+                                "dependency": "0",
+                                "uid": "1558546431666265:135348",
+                                "fileId": "86",
+                                "originalId": "87",
+                                "publicId": "222",
+                                "source": "D:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/materials\/PBR.lsmat",
+                                "additional": ""
+                            },
+                            {
+                                "name": "smile_glasses",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "54",
+                                "dependency": "0",
+                                "uid": "1558546455827349:140357",
+                                "fileId": "88",
+                                "originalId": "89",
+                                "publicId": "223",
+                                "source": "D:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/materials\/PBR.lsmat",
+                                "additional": ""
+                            },
+                            {
+                                "name": "smile_oface",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "55",
+                                "dependency": "0",
+                                "uid": "1558546473831624:145379",
+                                "fileId": "90",
+                                "originalId": "91",
+                                "publicId": "224",
+                                "source": "D:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/materials\/PBR.lsmat",
+                                "additional": ""
+                            },
+                            {
+                                "name": "number_0",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "67",
+                                "dependency": "0",
+                                "uid": "1558547627543203:338223",
+                                "fileId": "113",
+                                "originalId": "114",
+                                "publicId": "236",
+                                "source": "D:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/materials\/PBR.lsmat",
+                                "additional": ""
+                            },
+                            {
+                                "name": "number_1",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "68",
+                                "dependency": "0",
+                                "uid": "1558547648981836:343511",
+                                "fileId": "115",
+                                "originalId": "116",
+                                "publicId": "237",
+                                "source": "D:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/materials\/PBR.lsmat",
+                                "additional": ""
+                            },
+                            {
+                                "name": "number_2",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "69",
+                                "dependency": "0",
+                                "uid": "1558547664652759:351401",
+                                "fileId": "117",
+                                "originalId": "118",
+                                "publicId": "238",
+                                "source": "D:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/materials\/PBR.lsmat",
+                                "additional": ""
+                            },
+                            {
+                                "name": "number_3",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "70",
+                                "dependency": "0",
+                                "uid": "1558547676005201:359289",
+                                "fileId": "119",
+                                "originalId": "120",
+                                "publicId": "239",
+                                "source": "D:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/materials\/PBR.lsmat",
+                                "additional": ""
+                            },
+                            {
+                                "name": "number_4",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "71",
+                                "dependency": "0",
+                                "uid": "1558547688762506:364617",
+                                "fileId": "121",
+                                "originalId": "122",
+                                "publicId": "240",
+                                "source": "D:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/materials\/PBR.lsmat",
+                                "additional": ""
+                            },
+                            {
+                                "name": "number_5",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "72",
+                                "dependency": "0",
+                                "uid": "1558547731209286:370024",
+                                "fileId": "123",
+                                "originalId": "124",
+                                "publicId": "241",
+                                "source": "D:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/materials\/PBR.lsmat",
+                                "additional": ""
+                            },
+                            {
+                                "name": "number_6",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "73",
+                                "dependency": "0",
+                                "uid": "1558547733225921:372693",
+                                "fileId": "125",
+                                "originalId": "126",
+                                "publicId": "242",
+                                "source": "D:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/materials\/PBR.lsmat",
+                                "additional": ""
+                            },
+                            {
+                                "name": "number_7",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "74",
+                                "dependency": "0",
+                                "uid": "1558547734848530:375369",
+                                "fileId": "127",
+                                "originalId": "128",
+                                "publicId": "243",
+                                "source": "D:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/materials\/PBR.lsmat",
+                                "additional": ""
+                            },
+                            {
+                                "name": "number_8",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "75",
+                                "dependency": "0",
+                                "uid": "1558547736532375:378052",
+                                "fileId": "129",
+                                "originalId": "130",
+                                "publicId": "244",
+                                "source": "D:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/materials\/PBR.lsmat",
+                                "additional": ""
+                            },
+                            {
+                                "name": "number_9",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "76",
+                                "dependency": "0",
+                                "uid": "1558547738153404:380742",
+                                "fileId": "131",
+                                "originalId": "132",
+                                "publicId": "245",
+                                "source": "D:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/materials\/PBR.lsmat",
+                                "additional": ""
                             }
                         ]
                     },
@@ -2043,6 +3221,188 @@
                                 "publicId": "213",
                                 "source": "D:\/Pictures\/minesweeper assets\/cell_wrongflag.png",
                                 "additional": ""
+                            },
+                            {
+                                "name": "smiley_dead",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "48",
+                                "dependency": "0",
+                                "uid": "1558546372286974:125400",
+                                "fileId": "76",
+                                "originalId": "77",
+                                "publicId": "217",
+                                "source": "D:\/Pictures\/minesweeper assets\/smiley_dead.png",
+                                "additional": ""
+                            },
+                            {
+                                "name": "smiley_oface",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "49",
+                                "dependency": "0",
+                                "uid": "1558546372370914:125412",
+                                "fileId": "78",
+                                "originalId": "79",
+                                "publicId": "218",
+                                "source": "D:\/Pictures\/minesweeper assets\/smiley_oface.png",
+                                "additional": ""
+                            },
+                            {
+                                "name": "smiley_play",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "50",
+                                "dependency": "0",
+                                "uid": "1558546372582032:127868",
+                                "fileId": "80",
+                                "originalId": "81",
+                                "publicId": "219",
+                                "source": "D:\/Pictures\/minesweeper assets\/smiley_play.png",
+                                "additional": ""
+                            },
+                            {
+                                "name": "smiley_win",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "51",
+                                "dependency": "0",
+                                "uid": "1558546372753334:127885",
+                                "fileId": "82",
+                                "originalId": "83",
+                                "publicId": "220",
+                                "source": "D:\/Pictures\/minesweeper assets\/smiley_win.png",
+                                "additional": ""
+                            },
+                            {
+                                "name": "number_0",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "57",
+                                "dependency": "0",
+                                "uid": "1558547615092014:327319",
+                                "fileId": "93",
+                                "originalId": "94",
+                                "publicId": "226",
+                                "source": "D:\/Pictures\/minesweeper assets\/number_0.png",
+                                "additional": ""
+                            },
+                            {
+                                "name": "number_1",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "58",
+                                "dependency": "0",
+                                "uid": "1558547615178518:327331",
+                                "fileId": "95",
+                                "originalId": "96",
+                                "publicId": "227",
+                                "source": "D:\/Pictures\/minesweeper assets\/number_1.png",
+                                "additional": ""
+                            },
+                            {
+                                "name": "number_2",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "59",
+                                "dependency": "0",
+                                "uid": "1558547615416531:327547",
+                                "fileId": "97",
+                                "originalId": "98",
+                                "publicId": "228",
+                                "source": "D:\/Pictures\/minesweeper assets\/number_2.png",
+                                "additional": ""
+                            },
+                            {
+                                "name": "number_3",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "60",
+                                "dependency": "0",
+                                "uid": "1558547615548502:329891",
+                                "fileId": "99",
+                                "originalId": "100",
+                                "publicId": "229",
+                                "source": "D:\/Pictures\/minesweeper assets\/number_3.png",
+                                "additional": ""
+                            },
+                            {
+                                "name": "number_4",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "61",
+                                "dependency": "0",
+                                "uid": "1558547615689857:329932",
+                                "fileId": "101",
+                                "originalId": "102",
+                                "publicId": "230",
+                                "source": "D:\/Pictures\/minesweeper assets\/number_4.png",
+                                "additional": ""
+                            },
+                            {
+                                "name": "number_5",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "62",
+                                "dependency": "0",
+                                "uid": "1558547615767386:332388",
+                                "fileId": "103",
+                                "originalId": "104",
+                                "publicId": "231",
+                                "source": "D:\/Pictures\/minesweeper assets\/number_5.png",
+                                "additional": ""
+                            },
+                            {
+                                "name": "number_6",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "63",
+                                "dependency": "0",
+                                "uid": "1558547615927717:332481",
+                                "fileId": "105",
+                                "originalId": "106",
+                                "publicId": "232",
+                                "source": "D:\/Pictures\/minesweeper assets\/number_6.png",
+                                "additional": ""
+                            },
+                            {
+                                "name": "number_7",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "64",
+                                "dependency": "0",
+                                "uid": "1558547616045499:332496",
+                                "fileId": "107",
+                                "originalId": "108",
+                                "publicId": "233",
+                                "source": "D:\/Pictures\/minesweeper assets\/number_7.png",
+                                "additional": ""
+                            },
+                            {
+                                "name": "number_8",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "65",
+                                "dependency": "0",
+                                "uid": "1558547616151975:332511",
+                                "fileId": "109",
+                                "originalId": "110",
+                                "publicId": "234",
+                                "source": "D:\/Pictures\/minesweeper assets\/number_8.png",
+                                "additional": ""
+                            },
+                            {
+                                "name": "number_9",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "66",
+                                "dependency": "0",
+                                "uid": "1558547616234875:332629",
+                                "fileId": "111",
+                                "originalId": "112",
+                                "publicId": "235",
+                                "source": "D:\/Pictures\/minesweeper assets\/number_9.png",
+                                "additional": ""
                             }
                         ]
                     },
@@ -2060,7 +3420,7 @@
                         "additional": "",
                         "resources": [
                             {
-                                "name": "cellScript",
+                                "name": "buttonScript",
                                 "type": "4",
                                 "subtype": "0",
                                 "resourceId": "10",
@@ -2088,16 +3448,16 @@
                         ]
                     },
                     {
-                        "name": "game",
-                        "type": "4",
-                        "subtype": "0",
-                        "resourceId": "31",
+                        "name": "image",
+                        "type": "12",
+                        "subtype": "-1",
+                        "resourceId": "77",
                         "dependency": "0",
-                        "uid": "1558128033536127:134414",
-                        "fileId": "43",
-                        "originalId": "18446744073709551615",
-                        "publicId": "200",
-                        "source": "D:\/Documents\/snap lense\/test\/Public\/game.js",
+                        "uid": "1558547847321617:403246",
+                        "fileId": "133",
+                        "originalId": "134",
+                        "publicId": "246",
+                        "source": "",
                         "additional": ""
                     }
                 ]
@@ -2105,8 +3465,14 @@
         },
         "InspectorController": {
             "selection": {
-                "objects": [
-                    "1558109529761429:107563"
+                "resources": [
+                    {
+                        "uid": "1558128697080450:200542",
+                        "path_list": [
+                            "Textures",
+                            "cell_num4"
+                        ]
+                    }
                 ]
             }
         },
@@ -2155,6 +3521,23 @@
                                 {
                                     "k": "1558111090985093:192373",
                                     "v": "1558111090985093:192373"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1558547543060792:319043",
+                        "v": {
+                            "prefab": "1558547847321617:403246",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1558547543060792:319043",
+                                    "v": "1558547543060792:319043"
+                                },
+                                {
+                                    "k": "1558547558070239:319066",
+                                    "v": "1558547558070239:319066"
                                 }
                             ]
                         }
