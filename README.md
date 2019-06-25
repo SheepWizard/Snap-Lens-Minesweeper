@@ -1,3 +1,8 @@
-Snapchat lens to play minesweeper. 
+# MineSweeper snapchat lens
+This is a snapchat filter that lets you play a 9x9 game of minesweeper.
+Snap code:
+![minesweeper snapcode](https://i.imgur.com/tbbLjZS.png)
 
-unfortunately I can not publish the lens as it gets removed for copyright infringement :c
+
+I had intended to make a GUI so you can change the size of the board, but the lens studio program kept crashing so I could not add this feature.
+```
