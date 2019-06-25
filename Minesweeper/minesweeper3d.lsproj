@@ -1,9 +1,9 @@
 {
-    "lens_id": "",
+    "lens_id": "3a584a62-f1f9-445f-9a0b-5cd36cfb85c2",
     "document_id": "LvArWqE1-cRo78cDBk2k",
     "original_document_id": "LvArWqE1-cRo78cDBk2k",
     "version": "14",
-    "lastChanged": "1558985870174",
+    "lastChanged": "1561485654293",
     "preview": "icon.png",
     "videoPreview": "",
     "videoPreviewUpdateTime": "",
@@ -68,9 +68,6 @@
                     [
                         "Prefab",
                         "CutoutController [EDIT_ME]"
-                    ],
-                    [
-                        "Scripts"
                     ],
                     [
                         "Scripts",
@@ -449,13 +446,13 @@
             ]
         },
         "MetaInfoUIComponent": {
-            "icon_hash": "e42e3ff2817dd06c1e7b1417edeba3b0",
+            "icon_hash": "ace3774241caa290b9f17d36cc598696",
             "icon_path": "icon.png",
             "hints": [
                 ""
             ],
-            "lens": "Cutout",
-            "camera": "1",
+            "lens": "MineSweeper",
+            "camera": "2",
             "lens_descriptors": ""
         },
         "PreviewUiComponent": {
@@ -1305,52 +1302,19 @@
                     "uidsToFeatureNamesWithIntensity": ""
                 },
                 "ScreenTransform": {
-                    "uidData": [
-                        {
-                            "k": "1558985854754890:11131",
-                            "v": {
-                                "isBasicMode": "true",
-                                "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
-                                    "attachTop": "false"
-                                }
-                            }
-                        },
-                        {
-                            "k": "1558985854824743:11340",
-                            "v": {
-                                "isBasicMode": "true",
-                                "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
-                                    "attachTop": "false"
-                                }
-                            }
-                        }
-                    ],
+                    "uidData": "",
                     "generalData": ""
                 }
             }
         },
         "RenderOrderComponent": {
             "autoRenderOrder": {
-                "0": "1547165241720058:6307",
-                "1": "1547165241720377:6344",
-                "2": "1547165241720389:6347",
-                "3": "1547165241720471:6359",
-                "4": "1552343005167025:63451",
-                "5": "1558980038929064:464069",
-                "6": "1558980043388241:465123",
-                "7": "1558983116490157:666112",
-                "8": "1558985854753560:11125",
-                "9": "1558985854824528:11337"
+                "0": "1547147398654511:557641",
+                "1": "1547165241720058:6307",
+                "2": "1547165241720377:6344",
+                "3": "1547165241720389:6347",
+                "4": "1547165241720471:6359",
+                "5": "1552343005167025:63451"
             }
         },
         "LayerComponent": {
@@ -2582,7 +2546,7 @@
                     },
                     {
                         "k": "18",
-                        "v": "7c032d7ea4f24030f7e50048f985df7e"
+                        "v": "b48e9c19ed59ac2cc3f86325083c3c9d"
                     },
                     {
                         "k": "19",
@@ -2930,7 +2894,7 @@
                     },
                     {
                         "k": "251",
-                        "v": "1bdc61b53b6a8362cada459160c5b43d"
+                        "v": "0a051fbc6eb731e2b426a2d257bde7d6"
                     },
                     {
                         "k": "252",
@@ -3010,7 +2974,7 @@
                         "isFolder": "true",
                         "lastModified": "2019-05-27T19:56:57",
                         "name": "Public",
-                        "hash": "a12b95ad45064a98f023a5341a6d0c02",
+                        "hash": "e5be47ada21a351a1ebec66158dda9be",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -3466,9 +3430,9 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-05-27T20:13:03",
+                                "lastModified": "2019-05-27T21:56:55",
                                 "name": "Scripts",
-                                "hash": "53c979c4fc71199f401fa703df9410b7",
+                                "hash": "46b318b705adc3f922cbf9295f54badc",
                                 "children": [
                                     {
                                         "isFolder": "false",
@@ -3486,9 +3450,9 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-05-27T20:22:20",
+                                        "lastModified": "2019-05-27T20:42:28",
                                         "name": "gameControl.js",
-                                        "hash": "7c032d7ea4f24030f7e50048f985df7e",
+                                        "hash": "b48e9c19ed59ac2cc3f86325083c3c9d",
                                         "children": ""
                                     },
                                     {
@@ -3500,9 +3464,9 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-05-27T20:17:35",
+                                        "lastModified": "2019-05-27T21:56:55",
                                         "name": "settingsGUI.js",
-                                        "hash": "1bdc61b53b6a8362cada459160c5b43d",
+                                        "hash": "0a051fbc6eb731e2b426a2d257bde7d6",
                                         "children": ""
                                     },
                                     {
@@ -5200,11 +5164,7 @@
             }
         },
         "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1558985854824528:11337"
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",
@@ -5287,52 +5247,6 @@
                                 {
                                     "k": "1552343005167730:63458",
                                     "v": "1552343005167730:63458"
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "k": "1558980038929064:464069",
-                        "v": {
-                            "prefab": "1558976654611662:40665",
-                            "isActive": "true",
-                            "mapping": [
-                                {
-                                    "k": "1558974784876827:10125",
-                                    "v": "1558980038929064:464069"
-                                },
-                                {
-                                    "k": "1558974784877639:10133",
-                                    "v": "1558980038930150:464080"
-                                },
-                                {
-                                    "k": "1558974785100216:10300",
-                                    "v": "1558980038930619:464084"
-                                },
-                                {
-                                    "k": "1558974794554996:11161",
-                                    "v": "1558980038930916:464088"
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "k": "1558980043388241:465123",
-                        "v": {
-                            "prefab": "1558978272679237:209444",
-                            "isActive": "true",
-                            "mapping": [
-                                {
-                                    "k": "1558980043388241:465123",
-                                    "v": "1558980043388241:465123"
-                                },
-                                {
-                                    "k": "1558980043389735:465131",
-                                    "v": "1558980043389735:465131"
-                                },
-                                {
-                                    "k": "1558980043561476:465294",
-                                    "v": "1558980043561476:465294"
                                 }
                             ]
                         }

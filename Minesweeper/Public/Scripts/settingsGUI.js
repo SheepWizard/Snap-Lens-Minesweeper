@@ -3,6 +3,10 @@
 // @input Asset.ObjectPrefab buttonPrefab
 // @input Asset.Material button_image
 
+// @input Component.Camera cameraA
+// @input Component.Camera cameraB
+// @input bool toggle
+
 function run(){
     // var easybtn = createObjectFromPrefab(script.buttonPrefab);
     // setTexture(easybtn, script.button_image);
@@ -36,3 +40,22 @@ function setTexture(object, img) {
 
 
 run();
+
+if( !script.toggle ) {
+ removeAllRenderLayers( script.cameraA );
+ removeAllRenderLayers( script.cameraB );
+ script.cameraA.addRenderLayer( 0 );
+}
+else {
+ removeAllRenderLayers( script.cameraA );
+ removeAllRenderLayers( script.cameraB );
+ script.cameraB.addRenderLayer( 0 );
+}
+
+function removeAllRenderLayers( camera )
+{
+ var renderLayers = camera.getAllRenderLayers();
+ for( var i = 0; i < renderLayers.length; i++ ){
+ camera.removeRenderLayer( i );
+ }
+}
